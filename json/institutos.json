@@ -1,0 +1,192 @@
+{
+  "_id":0,
+  "school_name":"CÉSAR MANRIQUE PTHS",
+  "town":"Santa Cruz de Tenerife",
+  "island":"Tenerife",
+  "location":{
+    "type":"Point",
+    "coordinates":[28.455847,-16.283506]
+  },
+  "studies":[
+    {
+      "certificate":"Vocational Education and Training (VET)",
+      "title":"Microcomputer and Network Systems",
+      "turn":"Classroom training"
+    },{
+      "certificate":"Vocational Education and Training (VET)",
+      "title":"Microcomputer and Network Systems",
+      "turn":"Distance learning"
+    },{
+      "certificate":"Higher National Certificate (HNC)",
+      "title":"Network Computer Systems Management",
+      "turn":"Classroom training"
+    },{
+    },{
+      "certificate":"Higher National Certificate (HNC)",
+      "title":"Network Computer Systems Management",
+      "turn":"Distance learning"
+    },{
+      "certificate":"Higher National Certificate (HNC)",
+      "title":"Web development",
+      "turn":"Classroom training"
+    },{
+      "certificate":"Higher National Certificate (HNC)",
+      "title":"Cross-Platform development",
+      "turn":"Distance learning"
+    }
+  ]
+}
+
+{
+  "_id":1,
+  "school_name":"SAN JUAN DE LA RAMBLA PTHS",
+  "town":"San Juan de La Rambla",
+  "island":"Tenerife",
+  "location":{
+    "type":"Point",
+    "coordinates":[28.378958,-16.639830]
+  },
+  "studies":[
+    {
+      "certificate":"Vocational Education and Training (VET)",
+      "title":"Microcomputer and Network Systems",
+      "turn":"Classroom training"
+    }
+  ]
+}
+
+{
+  "_id":2,
+  "school_name":"SAN JUAN BOSCO PTHS",
+  "town":"San Cristóbal de La Laguna",
+  "island":"Tenerife",
+  "location":{
+    "type":"Point",
+    "coordinates":[28.471076,-16.283175]
+  },
+  "studies":[
+    {
+      "certificate":"Vocational Education and Training (VET)",
+      "title":"Microcomputer and Network Systems",
+      "turn":"Classroom training"
+    }
+  ]
+}
+
+{
+  "_id":3,
+  "school_name":"SANTA ANA PTHS",
+  "town":"Candelaria",
+  "island":"Tenerife",
+  "location":{
+    "type":"Point",
+    "coordinates":[28.351123,-16.372479]
+  },
+  "studies":[
+    {
+      "certificate":"Vocational Education and Training (VET)",
+      "title":"Microcomputer and Network Systems",
+      "turn":"Classroom training"
+    }
+  ]
+}
+
+{
+  "_id":4,
+  "school_name":"LAS GALLETAS PTHS",
+  "town":"Arona",
+  "island":"Tenerife",
+  "location":{
+    "type":"Point",
+    "coordinates":[28.014878,-16.654076]
+  },
+  "studies":[
+    {
+      "certificate":"Vocational Education and Training (VET)",
+      "title":"Microcomputer and Network Systems",
+      "turn":"Classroom training"
+    },{
+      "certificate":"Higher National Certificate (HNC)",
+      "title":"Network Computer Systems Management",
+      "turn":"Classroom training"
+    },{
+      "certificate":"Higher National Certificate (HNC)",
+      "title":"Cross-Platform development",
+      "turn":"Distance learning"
+    }
+  ]
+}
+
+{
+  "_id":5,
+  "school_name":"DOMINGO PÉREZ MINIK PTHS",
+  "town":"San Cristóbal de La Laguna",
+  "island":"Tenerife",
+  "location":{
+    "type":"Point",
+    "coordinates":[28.474747,-16.306450]
+  },
+  "studies":[
+    {
+      "certificate":"Vocational Education and Training (VET)",
+      "title":"Microcomputer and Network Systems",
+      "turn":"Classroom training"
+    },{
+      "certificate":"Higher National Certificate (HNC)",
+      "title":"Network Computer Systems Management",
+      "turn":"Classroom training"
+    },{
+      "certificate":"Higher National Certificate (HNC)",
+      "title":"Cross-Platform development",
+      "turn":"Classroom training"
+    }
+  ]
+}
+
+{
+  "_id":6,
+  "school_name":"EL GALEÓN PTHS",
+  "town":"Adeje",
+  "island":"Tenerife",
+  "location":{
+    "type":"Point",
+    "coordinates":[28.115164,-16.730525]
+  },
+  "studies":[
+    {
+      "certificate":"Vocational Education and Training (VET)",
+      "title":"Microcomputer and Network Systems",
+      "turn":"Classroom training"
+    }
+  ]
+}
+
+{
+  "_id":7,
+  "school_name":"PUERTO DE LA CRUZ PTHS",
+  "town":"Puerto de la Cruz",
+  "island":"Tenerife",
+  "location":{
+    "type":"Point",
+    "coordinates":[28.412128,-16.550522]
+  },
+  "studies":[
+    {
+      "certificate":"Higher National Certificate (HNC)",
+      "title":"Network Computer Systems Management",
+      "turn":"Classroom training"
+    },{
+      "certificate":"Higher National Certificate (HNC)",
+      "title":"Network Computer Systems Management",
+      "turn":"Distance learning"
+    },{
+      "certificate":"Higher National Certificate (HNC)",
+      "title":"Web development",
+      "turn":"Classroom training"
+    },{
+      "certificate":"Higher National Certificate (HNC)",
+      "title":"Cross-Platform development",
+      "turn":"Distance learning"
+    }
+  ]
+}
